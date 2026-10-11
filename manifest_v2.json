@@ -5,16 +5,14 @@
     "name": "Vela Github",
     "description": "手表上直接刷 GitHub：看通知、翻仓库、读源码、问 Copilot。 运行在小米 Vela OS 手表上，优先适配 Redmi Watch 5（432×514 方屏），兼容圆屏机型。 数据经小米运动健康蓝牙代理或 eSIM 独立联网直连 GitHub REST API；联网能力被阉割的机型可开启「手机网桥」（AstroBox FetchBridge 插件），经手机蓝牙代发 HTTP 完整恢复联网。 基于 Vela 官方 JS 应用框架（aiot-toolkit）开发，遵循官方组件 / API 白名单与性能规范",
     "preview": [
-      "media/1000007775.png",
-      "media/1000007778.png",
-      "media/1000007779.png",
-      "media/1000007780.png",
-      "media/1000007781.png",
-      "media/1000007782.png",
-      "media/1000007783.png"
+      "media/1000007866.png",
+      "media/1000007870.png",
+      "media/1000007869.png",
+      "media/1000007868.png",
+      "media/1000007867.png"
     ],
     "icon": "media/logo.png",
-    "cover": "media/1000007773.jpg",
+    "cover": "media/1000007865.jpg",
     "author": [
       {
         "name": "bandbbs_2354733",
@@ -31,60 +29,69 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.10.1",
-      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.1.rpk",
-      "versionCode": 21
+      "version": "1.10.0",
+      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.0 (1).rpk",
+      "versionCode": 20
     },
     "xmrw5xring": {
-      "version": "1.10.1",
-      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.1.rpk",
-      "versionCode": 21
+      "version": "1.10.0",
+      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.0 (1).rpk",
+      "versionCode": 20
     },
     "xmrw6": {
-      "version": "1.10.1",
-      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.1.rpk",
-      "versionCode": 21
+      "version": "1.10.0",
+      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.0 (1).rpk",
+      "versionCode": 20
     },
     "xmb10p": {
-      "version": "1.10.1-pro",
-      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.1-pro.band-pro.rpk",
-      "versionCode": 21
+      "version": "1.10.0-pro",
+      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.0-pro.band-pro.rpk",
+      "versionCode": 20
     },
     "xmb9p": {
-      "version": "1.10.1-pro",
-      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.1-pro.band-pro.rpk",
-      "versionCode": 21
+      "version": "1.10.0-pro",
+      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.0-pro.band-pro.rpk",
+      "versionCode": 20
     },
     "xmws3": {
-      "version": "1.10.1-s",
-      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.1-s.watch-s.rpk",
-      "versionCode": 21
+      "version": "1.10.0-s",
+      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.0-s.watch-s.rpk",
+      "versionCode": 20
     },
     "xmws4xring": {
-      "version": "1.10.1-s",
-      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.1-s.watch-s.rpk",
-      "versionCode": 21
+      "version": "1.10.0-s",
+      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.0-s.watch-s.rpk",
+      "versionCode": 20
     },
     "xmws441": {
-      "version": "1.10.1-s",
-      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.1-s.watch-s.rpk",
-      "versionCode": 21
+      "version": "1.10.0-s",
+      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.0-s.watch-s.rpk",
+      "versionCode": 20
     },
     "xmws4": {
-      "version": "1.10.1-s",
-      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.1-s.watch-s.rpk",
-      "versionCode": 21
+      "version": "1.10.0-s",
+      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.0-s.watch-s.rpk",
+      "versionCode": 20
     },
     "xmws541": {
-      "version": "1.10.1-s",
-      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.1-s.watch-s.rpk",
-      "versionCode": 21
+      "version": "1.10.0-s",
+      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.0-s.watch-s.rpk",
+      "versionCode": 20
     },
     "xmws5": {
-      "version": "1.10.1-s",
-      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.1-s.watch-s.rpk",
-      "versionCode": 21
+      "version": "1.10.0-s",
+      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.1.10.0-s.watch-s.rpk",
+      "versionCode": 20
     }
   },
-  "ext": {}
+  "ext": {
+    "bundledResources": {
+      "recommended": [
+        {
+          "type": "plugin",
+          "id": "网桥 FetchBridge"
+        }
+      ]
+    }
+  }
 }
