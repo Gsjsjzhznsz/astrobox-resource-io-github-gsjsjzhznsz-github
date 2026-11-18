@@ -5,14 +5,13 @@
     "name": "Vela Github",
     "description": "手表上直接刷 GitHub：看通知、翻仓库、读源码、问 Copilot。 运行在小米 Vela OS 手表上，优先适配 Redmi Watch 5（432×514 方屏），兼容圆屏机型。 数据经小米运动健康蓝牙代理或 eSIM 独立联网直连 GitHub REST API；联网能力被阉割的机型可开启「手机网桥」（AstroBox FetchBridge 插件），经手机蓝牙代发 HTTP 完整恢复联网。 基于 Vela 官方 JS 应用框架（aiot-toolkit）开发，遵循官方组件 / API 白名单与性能规范",
     "preview": [
-      "media/1000007866.png",
       "media/1000007870.png",
       "media/1000007869.png",
-      "media/1000007868.png",
-      "media/1000007867.png"
+      "media/1000007867.png",
+      "media/1000007868.png"
     ],
     "icon": "media/logo.png",
-    "cover": "media/1000021189.jpg",
+    "cover": "media/1000021203.jpg",
     "author": [
       {
         "name": "bandbbs_2354733",
@@ -30,17 +29,17 @@
   "downloads": {
     "xmrw5": {
       "version": "2.1.2",
-      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.2.1.2.rpk",
+      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.2.1.2 (1).rpk",
       "versionCode": 43
     },
     "xmrw5xring": {
       "version": "2.1.2",
-      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.2.1.2.rpk",
+      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.2.1.2 (1).rpk",
       "versionCode": 43
     },
     "xmrw6": {
       "version": "2.1.2",
-      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.2.1.2.rpk",
+      "file_name": "downloads/io.github.gsjsjzhznsz.github.debug.2.1.2 (1).rpk",
       "versionCode": 43
     },
     "xmb10p": {
